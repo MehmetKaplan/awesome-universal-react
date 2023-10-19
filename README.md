@@ -36,6 +36,7 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Infinite Scroll List](https://github.com/showtime-xyz/showtime-frontend/tree/staging/packages/design-system/infinite-scroll-list) - FlashList on native, React Virtual on web
 - [Tab View](https://github.com/showtime-xyz/showtime-tab-view) - A React Native TabView component that support collapse header and custom refresh control, powered by Reanimated & Gesture Handler
 - [Universal Tooltip](https://github.com/alantoa/universal-tooltip) - Cross-platform Tooltip component for React Native, powered by Expo Modules
+- [React Native Animated Layout](https://github.com/MehmetKaplan/react-native-animated-layout) - A layout system that can handle the view port as a screen and place View's with absolute coordinates, responding to the changes in the view port.
 
 ### Renderers
 
@@ -48,6 +49,8 @@ Native for Web" to use the same API for UI components. They run on iOS, Android 
 - [Moti](https://github.com/nandorojo/moti) - The React Native (+ Web) animation library, powered by Reanimated 3
 - [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
 - [React Native MMKV](https://github.com/mrousavy/react-native-mmkv) - The fastest key/value storage for React Native. ~30x faster than AsyncStorage
+- [Tamed Stripe] (https://github.com/MehmetKaplan/tamed-stripe) - A frontend and backend library for using most common Stripe functionalities with exact same experience in apps and web.
+- [React Native Webview with Web](https://github.com/MehmetKaplan/react-native-webview-with-web) - Combination of WebView (for ios and android app) and window.open (for browsers) with the limited functionality of detecting a certain url to return back to the main application.
 
 ## Design Systems
 
